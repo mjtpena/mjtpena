@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm MJP</h1>
 <h3 align="center">A hands-on CTO who dabbles most of my time with Blockchain, Web3, DeFi, and Crypto lately.</h3>
 
-- 🔭 I’m currently working on [www.metadhana.io](www.metadhana.io)
-
 - 📫 How to reach me **michael@metadhana.io**
 
 <h3 align="left">Connect with me:</h3>
