@@ -3,7 +3,7 @@
 ## About Me
 I am a Technologist with background in Applications Development, Data Engineering, and Cloud Platforms. I am passionate about emerging data technologies.
 
-<p>
+
           <div>
 ### [Microsoft MVP for Azure](https://mvp.microsoft.com/en-US/MVP/profile/1ecd6371-e357-e511-810a-c4346bac0abc)
 <img src="https://github.com/mjtpena/mjtpena/assets/19221213/2da4ee51-2f42-444c-a5a8-657269affac7"/>
@@ -14,7 +14,7 @@ I am a Technologist with background in Applications Development, Data Engineerin
 <img src="https://github.com/mjtpena/mjtpena/assets/19221213/279a911a-850b-4993-9a79-f9d4d1990f06"/>
 </div>
 
-</p>
+
 
 ## Projects
 
