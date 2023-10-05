@@ -10,8 +10,12 @@ I am a Technologist with background in Applications Development, Data Engineerin
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height=128 width=128/>
 
 ### Programming Languages 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=128 width=128/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=128 width=128/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=128 width=128/>
-          
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=128 width=128/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=128 width=128/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=128 width=128/>
+</p>
+
 ### Web Development
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height=128 width=128/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=128 width=128/>
