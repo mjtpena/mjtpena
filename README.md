@@ -1,8 +1,23 @@
-<h1 align="center">Hi 👋, I'm MJP</h1>
+# Hello, I'm Michael John Peña 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## About Me
+I am a Technologist with background in Applications Development, Data Engineering, and Cloud Platforms. I am passionate about emerging data technologies.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Skills
+- **Platforms**: Azure, Windows Server, MacOS, IoT
+- **Programming Languages**: C#, TypeScript, SQL, Python
+- **Web Development**: React, Angular, ASP.NET
+- **Databases**: MSSQL, Vectors, Blockchain
+- **Tools**: Git, GitHub, Azure DevOps, Docker
+
+## Projects
+1. [**VectorDBs**](https://github.com/mjtpena/vector-dbs): Vector Database is an emerging technology on how we store and search information using vectors.
+2. [**Azure UnOpen-AI**](https://github.com/mjtpena/azure-unopenai): A technology stack on how to build a Copilot experience on Azure without Open AI.
+3. [**Azure Messaging Decision Tree](https://github.com/mjtpena/azure-messaging-decision): There are N ways of doing messaging on Azure, here's a simple guide on which one to choose.
+4. [**Mac.NET.Samples**](https://github.com/mjtpena/Mac.NET.Samples): Various samples on building native MacOS applications using C# and .NET.
+
+## Contact Me
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/michaeljohnpena/) or [Email](mailto:michael@datachain.consulting).
+
+## License
+This profile is distributed under the MIT license.
