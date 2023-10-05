@@ -3,6 +3,12 @@
 ## About Me
 I am a Technologist with background in Applications Development, Data Engineering, and Cloud Platforms. I am passionate about emerging data technologies.
 
+Microsoft MVP for Azure.
+<a href="https://mvp.microsoft.com/en-US/MVP/profile/1ecd6371-e357-e511-810a-c4346bac0abc"><img src="https://github.com/mjtpena/mjtpena/assets/19221213/2da4ee51-2f42-444c-a5a8-657269affac7" height=128 width=128/></a>
+
+Data and AI Director at Playtime Solutions.
+<a href="https://playtimesolutions.com.au"><img src="https://github.com/mjtpena/mjtpena/assets/19221213/279a911a-850b-4993-9a79-f9d4d1990f06" height=128 width=128/></a>
+
 ## Projects
 
 1. [**VectorDBs**](https://github.com/mjtpena/vector-dbs): Vector Database is an emerging technology on how we store and search information using vectors.
@@ -12,6 +18,7 @@ I am a Technologist with background in Applications Development, Data Engineerin
 
 ## Technical Skills
 > I consider myself as a full-stack and polyglot developer, but I primarily work on the Microsoft technology ecosystem.
+
 
 ### Platforms
 <p>
