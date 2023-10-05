@@ -3,18 +3,18 @@
 ## About Me
 I am a Technologist with background in Applications Development, Data Engineering, and Cloud Platforms. I am passionate about emerging data technologies.
 
-<div>
 <p>
+<div>
 Microsoft MVP for Azure
 <img src="https://github.com/mjtpena/mjtpena/assets/19221213/2da4ee51-2f42-444c-a5a8-657269affac7"/>
-</p>
+</div>
 
-<p>
+<div>
 Data and AI Director at Playtime Solutions
 <img src="https://github.com/mjtpena/mjtpena/assets/19221213/279a911a-850b-4993-9a79-f9d4d1990f06"/>
-</p>
-
 </div>
+
+</p>
 
 ---
 
