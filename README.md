@@ -6,7 +6,8 @@ I am a Technologist with background in Applications Development, Data Engineerin
 ## Skills
 
 ### Platforms 
-<img src="[Assets/icon.png](https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png)" width="64">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+          
 
 Azure, Windows Server, MacOS, IoT
 - **Programming Languages**: C#, TypeScript, SQL, Python
