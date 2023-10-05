@@ -28,11 +28,17 @@ I am a Technologist with background in Applications Development, Data Engineerin
 </p>
           
 ### Databases
-
 <p>
 <img src="http://code.benco.io/icon-collection/azure-icons/SQL-Database.svg" height=64 width=64 />
 <img src="http://code.benco.io/icon-collection/azure-icons/Azure-Cosmos-DB.svg" height=64 width=64 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height=64 width=64 />
+</p>
+
+### Integrations
+<p>
+<img src="http://code.benco.io/icon-collection/azure-icons/Function-Apps.svg" height=64 width=64 />
+<img src="http://code.benco.io/icon-collection/azure-icons/Event-Grid-Domains.svg" height=64 width=64 />
+<img src="http://code.benco.io/icon-collection/azure-icons/Event-Hubs.svg" height=64 width=64 />
 </p>
 
 ### Web Development
