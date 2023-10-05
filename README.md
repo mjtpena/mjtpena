@@ -4,7 +4,11 @@
 I am a Technologist with background in Applications Development, Data Engineering, and Cloud Platforms. I am passionate about emerging data technologies.
 
 ## Skills
-- **Platforms**: Azure, Windows Server, MacOS, IoT
+
+### Platforms 
+![https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png]
+
+Azure, Windows Server, MacOS, IoT
 - **Programming Languages**: C#, TypeScript, SQL, Python
 - **Web Development**: React, Angular, ASP.NET
 - **Databases**: MSSQL, Vectors, Blockchain
