@@ -15,6 +15,8 @@ I am a Technologist with background in Applications Development, Data Engineerin
 
 ### Platforms 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height=64 width=64/>
+<img src="https://github.com/mjtpena/mjtpena/assets/19221213/39edd18c-792f-4230-887b-8525a1c9404d" height=64 width=64/>
+<img src="http://code.benco.io/icon-collection/azure-icons/Kubernetes-Services.svg" height=64 width=64 />
 
 ### Programming Languages 
 <p>
@@ -31,16 +33,17 @@ I am a Technologist with background in Applications Development, Data Engineerin
 </p>
           
 ### Databases
+
 <p>
 <img src="http://code.benco.io/icon-collection/azure-icons/SQL-Database.svg" height=64 width=64 />
 <img src="http://code.benco.io/icon-collection/azure-icons/Azure-Cosmos-DB.svg" height=64 width=64 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height=64 width=64/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height=64 width=64 />
+          
 </p>
 
 ### Tools 
 <p>
 <img src="http://code.benco.io/icon-collection/azure-icons/Azure-DevOps.svg" height=64 width=64 />
-<img src="http://code.benco.io/icon-collection/azure-icons/Kubernetes-Services.svg" height=64 width=64 />
 </p>
 
 ## Other Skills
