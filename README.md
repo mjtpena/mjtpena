@@ -6,7 +6,7 @@ I am a Technologist with background in Applications Development, Data Engineerin
 ## Skills
 
 ### Platforms 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height=128 width=128/>
           
 
 Azure, Windows Server, MacOS, IoT
