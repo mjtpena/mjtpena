@@ -11,13 +11,6 @@ I am a Technologist with background in Applications Development, Data Engineerin
 
 ---
 
-## Projects
-
-1. [**VectorDBs**](https://github.com/mjtpena/vector-dbs): Vector Database is an emerging technology on how we store and search information using vectors.
-2. [**unopenai.net**](https://github.com/mjtpena/azure-unopenai): A technology stack on how to build a Copilot experience on .NET without Open AI.
-3. [**Azure Messaging Decision**](https://github.com/mjtpena/azure-messaging-decision): There are N ways of doing messaging on Azure, here's a simple guide on which one to choose.
-4. [**Mac.NET.Samples**](https://github.com/mjtpena/Mac.NET.Samples): Various samples on building native MacOS applications using C# and .NET.
-
 ## Technical Skills
 > I consider myself as a full-stack and polyglot developer, but I primarily work on the Microsoft technology ecosystem.
 
