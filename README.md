@@ -1,62 +1,35 @@
 <!-- Animated Header Banner -->
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:117865,50:0078D4,100:742774&height=230&section=header&text=Michael%20John%20Peña&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Microsoft%20Fabric%20Expert%20|%20Microsoft%20MVP%20|%20Data%20%26%20AI%20Director&descSize=18&descAlignY=55)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:117865,50:0078D4,100:742774&height=230&section=header&text=Michael%20John%20Peña&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Microsoft%20MVP%20|%20Data%20%26%20AI%20Director%20|%20Fabric%20Enthusiast&descSize=18&descAlignY=55)
 
   <!-- Animated Typing -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=🚀+Building+the+Future+with+Microsoft+Fabric;End-to-End+Analytics+%7C+Data+Engineering+%7C+AI;Empowering+Organizations+Through+Data+✨)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Working+with+Microsoft+Fabric+%26+Azure;Data+Engineering+%7C+Analytics+%7C+AI;Building+tools+for+the+data+community+✨)](https://git.io/typing-svg)
 
 </div>
 
-<!-- Microsoft Fabric Expertise Banner with Icons -->
+<!-- Microsoft Fabric Focus -->
 <div align="center">
-  <h2>
-    <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/fabric_48_color.svg" width="40" height="40" alt="Fabric"/>
-    Microsoft Fabric Expert
-    <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/fabric_48_color.svg" width="40" height="40" alt="Fabric"/>
-  </h2>
+  <h2>🧵 Specialising in Microsoft Fabric 🧵</h2>
 </div>
 
 <!-- Fabric Workloads Showcase -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/data_engineering_48_color.svg" width="48" height="48" alt="Data Engineering"/><br/>
-        <strong>Data<br/>Engineering</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/data_factory_48_color.svg" width="48" height="48" alt="Data Factory"/><br/>
-        <strong>Data<br/>Factory</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/data_science_48_color.svg" width="48" height="48" alt="Data Science"/><br/>
-        <strong>Data<br/>Science</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/data_warehouse_48_color.svg" width="48" height="48" alt="Data Warehouse"/><br/>
-        <strong>Data<br/>Warehouse</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/databases_48_color.svg" width="48" height="48" alt="Real-Time Intelligence"/><br/>
-        <strong>Real-Time<br/>Intelligence</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/one_lake_48_color.svg" width="48" height="48" alt="OneLake"/><br/>
-        <strong>OneLake</strong>
-      </td>
-    </tr>
-  </table>
+  
+  ![Data Engineering](https://img.shields.io/badge/Data_Engineering-⚙️-0078D4?style=for-the-badge)
+  ![Data Factory](https://img.shields.io/badge/Data_Factory-🏭-117865?style=for-the-badge)
+  ![Data Science](https://img.shields.io/badge/Data_Science-🔬-742774?style=for-the-badge)
+  ![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-🏢-0078D4?style=for-the-badge)
+  ![Real-Time Intelligence](https://img.shields.io/badge/Real--Time_Intelligence-⚡-117865?style=for-the-badge)
+  ![OneLake](https://img.shields.io/badge/OneLake-🌊-742774?style=for-the-badge)
+  
 </div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- About Me Section -->
-<h2>
-  <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/copilot_24_color.svg" width="28" height="28" alt="About"/>
-  About Me
-</h2>
+<h2>👋 About Me</h2>
 
 <div align="center">
   
@@ -67,74 +40,30 @@
 
 ```yaml
 name: Michael John Peña
-location: 🌏 Australia / Global
-current_focus: Microsoft Fabric & End-to-End Analytics
+location: 🌏 Sydney, Australia
+current_focus: Microsoft Fabric & Data Engineering
 roles:
   - 🏆 Microsoft MVP for Azure
   - 🎯 Data & AI Director @ Playtime Solutions
-  - 📚 Author & International Speaker
-  - ☁️ Cloud Solutions Architect
-expertise:
+  - 📚 Author & Speaker
+working_with:
   - Microsoft Fabric (Lakehouse, Warehouse, Pipelines, Notebooks)
   - Power BI & Semantic Models
   - Azure Data Platform (Synapse, Databricks, Data Factory)
-  - AI/ML Solutions & Copilot Integration
-passion: Democratizing data & empowering organizations with Fabric
+  - AI/ML Solutions
+interests: Building open-source tools for the Fabric community
 ```
 
 <!-- Fabric Artifacts I Work With -->
-<h2>
-  <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/lakehouse_48_item.svg" width="32" height="32" alt="Artifacts"/>
-  Fabric Artifacts I Build
-</h2>
+<h2>🏗️ Fabric Artifacts I Work With</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/lakehouse_48_item.svg" width="40" height="40"/><br/>
-        <sub><b>Lakehouse</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/data_warehouse_48_item.svg" width="40" height="40"/><br/>
-        <sub><b>Warehouse</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/pipeline_48_item.svg" width="40" height="40"/><br/>
-        <sub><b>Pipelines</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/dataflow_gen2_48_item.svg" width="40" height="40"/><br/>
-        <sub><b>Dataflows</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/notebook_48_item.svg" width="40" height="40"/><br/>
-        <sub><b>Notebooks</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/model_48_item.svg" width="40" height="40"/><br/>
-        <sub><b>ML Models</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/eventstream_48_item.svg" width="40" height="40"/><br/>
-        <sub><b>Eventstream</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/kql_database_48_item.svg" width="40" height="40"/><br/>
-        <sub><b>KQL DB</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/dashboard_48_item.svg" width="40" height="40"/><br/>
-        <sub><b>Dashboards</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/paginated_report_48_item.svg" width="40" height="40"/><br/>
-        <sub><b>Reports</b></sub>
-      </td>
-    </tr>
-  </table>
+  
+  | | | | | |
+  |:---:|:---:|:---:|:---:|:---:|
+  | 🏠 **Lakehouse** | 🏢 **Warehouse** | 🔄 **Pipelines** | 🌊 **Dataflows** | 📓 **Notebooks** |
+  | 🤖 **ML Models** | 📡 **Eventstream** | 🔍 **KQL DB** | 📊 **Dashboards** | 📈 **Reports** |
+  
 </div>
 
 <!-- Tech Stack with Animations -->
@@ -170,17 +99,25 @@ passion: Democratizing data & empowering organizations with Fabric
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Featured Projects - Pinned Repos Section -->
-<h2>
-  <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/exploration_48_item.svg" width="32" height="32" alt="Projects"/>
-  Featured Projects
-</h2>
+<h2>🚀 Featured Projects</h2>
+
+<p align="center"><i>Open-source tools I'm building for the Microsoft Fabric community</i></p>
 
 <div align="center">
-  <a href="https://github.com/mjtpena/cloudicons">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjtpena&repo=cloudicons&theme=tokyonight&hide_border=true&border_radius=15" alt="CloudIcons"/>
+  <a href="https://github.com/mjtpena/fabric-capacity-scheduler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjtpena&repo=fabric-capacity-scheduler&theme=tokyonight&hide_border=true&border_radius=15" alt="Fabric Capacity Scheduler"/>
   </a>
-  <a href="https://github.com/mjtpena/Oqtane.ChatHubs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjtpena&repo=Oqtane.ChatHubs&theme=tokyonight&hide_border=true&border_radius=15" alt="Oqtane ChatHubs"/>
+  <a href="https://github.com/mjtpena/faborite">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjtpena&repo=faborite&theme=tokyonight&hide_border=true&border_radius=15" alt="Faborite"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/mjtpena/fabric-lakehouse-backup">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjtpena&repo=fabric-lakehouse-backup&theme=tokyonight&hide_border=true&border_radius=15" alt="Fabric Lakehouse Backup"/>
+  </a>
+  <a href="https://github.com/mjtpena/fabric-hydrate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjtpena&repo=fabric-hydrate&theme=tokyonight&hide_border=true&border_radius=15" alt="Fabric Hydrate"/>
   </a>
 </div>
 
@@ -208,10 +145,7 @@ passion: Democratizing data & empowering organizations with Fabric
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Connect with Me -->
-<h2>
-  <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/copilot_24_color.svg" width="28" height="28"/>
-  Let's Connect
-</h2>
+<h2>🤝 Let's Connect</h2>
 
 <div align="center">
   
@@ -232,13 +166,9 @@ passion: Democratizing data & empowering organizations with Fabric
   <img src="https://komarev.com/ghpvc/?username=mjtpena&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
-<!-- Snake Animation - Requires GitHub Action setup -->
+<!-- Contribution Graph -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjtpena/mjtpena/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjtpena/mjtpena/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mjtpena/mjtpena/output/github-contribution-grid-snake.svg"/>
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mjtpena&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 <!-- Footer Wave -->
