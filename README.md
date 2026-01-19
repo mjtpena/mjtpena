@@ -1,16 +1,20 @@
 <!-- Animated Header Banner -->
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:117865,50:0078D4,100:742774&height=230&section=header&text=Michael%20John%20Peña&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Microsoft%20MVP%20|%20Data%20%26%20AI%20Director%20|%20Fabric%20Enthusiast&descSize=18&descAlignY=55)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:117865,50:0078D4,100:742774&height=230&section=header&text=Michael%20John%20Pena&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Microsoft%20MVP%20|%20MCT%20|%20Data%20and%20AI%20Director&descSize=18&descAlignY=55)
 
   <!-- Animated Typing -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Working+with+Microsoft+Fabric+%26+Azure;Data+Engineering+%7C+Analytics+%7C+AI;Building+tools+for+the+data+community+✨)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Working+with+Microsoft+Fabric+and+Azure;Data+Engineering+|+Analytics+|+AI;Building+tools+for+the+data+community)](https://git.io/typing-svg)
 
 </div>
 
 <!-- Microsoft Fabric Focus -->
 <div align="center">
-  <h2>🧵 Specialising in Microsoft Fabric 🧵</h2>
+  <h2>
+    <img src="https://img.icons8.com/fluency/48/azure-1.png" width="32" height="32" alt="Azure"/>
+    Specialising in Microsoft Fabric
+    <img src="https://img.icons8.com/fluency/48/azure-1.png" width="32" height="32" alt="Azure"/>
+  </h2>
 </div>
 
 <!-- Fabric Workloads Showcase -->
@@ -34,18 +38,20 @@
 <div align="center">
   
   [![MVP Badge](https://img.shields.io/badge/Microsoft_MVP-Azure-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/MVP/profile/1ecd6371-e357-e511-810a-c4346bac0abc)
-  [![Role](https://img.shields.io/badge/Data_&_AI_Director-Playtime_Solutions-742774?style=for-the-badge&logo=databricks&logoColor=white)](https://playtimesolutions.com.au/)
+  [![MCT Badge](https://img.shields.io/badge/Microsoft_Certified_Trainer-MCT-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/mct-certification)
+  [![Role](https://img.shields.io/badge/Data_&_AI_Director-Playtime_Solutions-742774?style=for-the-badge&logo=microsoft&logoColor=white)](https://playtimesolutions.com.au/)
   
 </div>
 
 ```yaml
-name: Michael John Peña
-location: 🌏 Sydney, Australia
+name: Michael John Pena
+location: Sydney, Australia
 current_focus: Microsoft Fabric & Data Engineering
 roles:
-  - 🏆 Microsoft MVP for Azure
-  - 🎯 Data & AI Director @ Playtime Solutions
-  - 📚 Author & Speaker
+  - Microsoft MVP for Azure
+  - Microsoft Certified Trainer (MCT)
+  - Data & AI Director @ Playtime Solutions
+  - Author & Speaker
 working_with:
   - Microsoft Fabric (Lakehouse, Warehouse, Pipelines, Notebooks)
   - Power BI & Semantic Models
@@ -96,30 +102,23 @@ interests: Building open-source tools for the Fabric community
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Featured Projects - Pinned Repos Section -->
-<h2>🚀 Featured Projects</h2>
+<h2>
+  <img src="https://img.icons8.com/fluency/48/azure-1.png" width="28" height="28" alt="Azure"/>
+  Featured Projects & Publications
+</h2>
 
-<p align="center"><i>Open-source tools I'm building for the Microsoft Fabric community</i></p>
+<p align="center"><i>Open-source tools and resources for the Microsoft Fabric & Azure community</i></p>
 
 <div align="center">
 
-| Project | Description | Language |
-|:--------|:------------|:--------:|
+| Project | Description | Type |
+|:--------|:------------|:----:|
+| [**Azure Data Fundamentals (O'Reilly)**](https://www.oreilly.com/library/view/azure-data-fundamentals/9781098164720/) | Comprehensive guide to Azure Data services and fundamentals | 📚 Book |
 | [**fabric-capacity-scheduler**](https://github.com/mjtpena/fabric-capacity-scheduler) | Schedule and manage Microsoft Fabric capacity | PowerShell |
 | [**faborite**](https://github.com/mjtpena/faborite) | Sync Microsoft Fabric lakehouse data locally for faster development | C# |
 | [**fabric-lakehouse-backup**](https://github.com/mjtpena/fabric-lakehouse-backup) | Backup and restore Fabric lakehouse data | Python |
 | [**fabric-hydrate**](https://github.com/mjtpena/fabric-hydrate) | Hydrate Fabric environments with sample data | Python |
 
-</div>
-
-<!-- GitHub Stats -->
-<h2>📊 GitHub Analytics</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjtpena&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjtpena&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 <!-- Animated Divider -->
@@ -132,7 +131,6 @@ interests: Building open-source tools for the Fabric community
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-michaeljohnpena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaeljohnpena/)
   [![Email](https://img.shields.io/badge/Email-michael@datachain.consulting-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michael@datachain.consulting)
-  [![Book](https://img.shields.io/badge/📚_Book-Azure_Data_Fundamentals-D14836?style=for-the-badge)](https://www.oreilly.com/library/view/azure-data-fundamentals/9781098164720/)
   
 </div>
 
