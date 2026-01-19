@@ -67,10 +67,7 @@ interests: Building open-source tools for the Fabric community
 </div>
 
 <!-- Tech Stack with Animations -->
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3dm0upr&rid=giphy.gif" width="28"> 
-  Tech Stack & Tools
-</h2>
+<h2>🛠️ Tech Stack & Tools</h2>
 
 <div align="center">
   
@@ -104,41 +101,25 @@ interests: Building open-source tools for the Fabric community
 <p align="center"><i>Open-source tools I'm building for the Microsoft Fabric community</i></p>
 
 <div align="center">
-  <a href="https://github.com/mjtpena/fabric-capacity-scheduler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjtpena&repo=fabric-capacity-scheduler&theme=tokyonight&hide_border=true&border_radius=15" alt="Fabric Capacity Scheduler"/>
-  </a>
-  <a href="https://github.com/mjtpena/faborite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjtpena&repo=faborite&theme=tokyonight&hide_border=true&border_radius=15" alt="Faborite"/>
-  </a>
+
+| Project | Description | Language |
+|:--------|:------------|:--------:|
+| [**fabric-capacity-scheduler**](https://github.com/mjtpena/fabric-capacity-scheduler) | Schedule and manage Microsoft Fabric capacity | PowerShell |
+| [**faborite**](https://github.com/mjtpena/faborite) | Sync Microsoft Fabric lakehouse data locally for faster development | C# |
+| [**fabric-lakehouse-backup**](https://github.com/mjtpena/fabric-lakehouse-backup) | Backup and restore Fabric lakehouse data | Python |
+| [**fabric-hydrate**](https://github.com/mjtpena/fabric-hydrate) | Hydrate Fabric environments with sample data | Python |
+
 </div>
 
-<div align="center">
-  <a href="https://github.com/mjtpena/fabric-lakehouse-backup">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjtpena&repo=fabric-lakehouse-backup&theme=tokyonight&hide_border=true&border_radius=15" alt="Fabric Lakehouse Backup"/>
-  </a>
-  <a href="https://github.com/mjtpena/fabric-hydrate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjtpena&repo=fabric-hydrate&theme=tokyonight&hide_border=true&border_radius=15" alt="Fabric Hydrate"/>
-  </a>
-</div>
-
-<!-- GitHub Stats with Animations -->
-<h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 
-  GitHub Analytics
-</h2>
+<!-- GitHub Stats -->
+<h2>📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mjtpena&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&bg_color=0D1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjtpena&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&langs_count=8"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjtpena&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117" alt="GitHub Streak"/>
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mjtpena&custom_title=Contribution%20Graph&bg_color=0D1117&color=0078D4&line=742774&point=F2C811&area_color=117865&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 <!-- Animated Divider -->
@@ -149,26 +130,15 @@ interests: Building open-source tools for the Fabric community
 
 <div align="center">
   
-  [![Website](https://img.shields.io/badge/Website-michaeljohnpena.com-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://michaeljohnpena.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-michaeljohnpena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaeljohnpena/)
-  [![Twitter](https://img.shields.io/badge/Twitter-@maboroshi__s-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maboroshi_s)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michael@datachain.consulting)
+  [![Email](https://img.shields.io/badge/Email-michael@datachain.consulting-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michael@datachain.consulting)
+  [![Book](https://img.shields.io/badge/📚_Book-Azure_Data_Fundamentals-D14836?style=for-the-badge)](https://www.oreilly.com/library/view/azure-data-fundamentals/9781098164720/)
   
-</div>
-
-<!-- Trophy Section -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mjtpena&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies"/>
 </div>
 
 <!-- Profile Views Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mjtpena&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</div>
-
-<!-- Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mjtpena&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 <!-- Footer Wave -->
