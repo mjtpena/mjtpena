@@ -11,29 +11,52 @@
 <!-- Microsoft Fabric Focus -->
 <div align="center">
   <h2>
-    <img src="https://img.icons8.com/fluency/48/azure-1.png" width="32" height="32" alt="Azure"/>
+    <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/fabric_48_color.svg" width="36" height="36" alt="Fabric"/>
     Specialising in Microsoft Fabric
-    <img src="https://img.icons8.com/fluency/48/azure-1.png" width="32" height="32" alt="Azure"/>
+    <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/fabric_48_color.svg" width="36" height="36" alt="Fabric"/>
   </h2>
 </div>
 
 <!-- Fabric Workloads Showcase -->
 <div align="center">
-  
-  ![Data Engineering](https://img.shields.io/badge/Data_Engineering-⚙️-0078D4?style=for-the-badge)
-  ![Data Factory](https://img.shields.io/badge/Data_Factory-🏭-117865?style=for-the-badge)
-  ![Data Science](https://img.shields.io/badge/Data_Science-🔬-742774?style=for-the-badge)
-  ![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-🏢-0078D4?style=for-the-badge)
-  ![Real-Time Intelligence](https://img.shields.io/badge/Real--Time_Intelligence-⚡-117865?style=for-the-badge)
-  ![OneLake](https://img.shields.io/badge/OneLake-🌊-742774?style=for-the-badge)
-  
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/data_engineering_48_color.svg" width="48" height="48" alt="Data Engineering"/><br/>
+        <strong>Data<br/>Engineering</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/data_factory_48_color.svg" width="48" height="48" alt="Data Factory"/><br/>
+        <strong>Data<br/>Factory</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/data_science_48_color.svg" width="48" height="48" alt="Data Science"/><br/>
+        <strong>Data<br/>Science</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/data_warehouse_48_color.svg" width="48" height="48" alt="Data Warehouse"/><br/>
+        <strong>Data<br/>Warehouse</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/databases_48_color.svg" width="48" height="48" alt="Real-Time Intelligence"/><br/>
+        <strong>Real-Time<br/>Intelligence</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/one_lake_48_color.svg" width="48" height="48" alt="OneLake"/><br/>
+        <strong>OneLake</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- About Me Section -->
-<h2>👋 About Me</h2>
+<h2>
+  <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/copilot_24_color.svg" width="28" height="28" alt="About"/>
+  About Me
+</h2>
 
 <div align="center">
   
@@ -61,15 +84,58 @@ interests: Building open-source tools for the Fabric community
 ```
 
 <!-- Fabric Artifacts I Work With -->
-<h2>🏗️ Fabric Artifacts I Work With</h2>
+<h2>
+  <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/lakehouse_48_item.svg" width="32" height="32" alt="Artifacts"/>
+  Fabric Artifacts I Work With
+</h2>
 
 <div align="center">
-  
-  | | | | | |
-  |:---:|:---:|:---:|:---:|:---:|
-  | 🏠 **Lakehouse** | 🏢 **Warehouse** | 🔄 **Pipelines** | 🌊 **Dataflows** | 📓 **Notebooks** |
-  | 🤖 **ML Models** | 📡 **Eventstream** | 🔍 **KQL DB** | 📊 **Dashboards** | 📈 **Reports** |
-  
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/lakehouse_48_item.svg" width="40" height="40"/><br/>
+        <sub><b>Lakehouse</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/data_warehouse_48_item.svg" width="40" height="40"/><br/>
+        <sub><b>Warehouse</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/pipeline_48_item.svg" width="40" height="40"/><br/>
+        <sub><b>Pipelines</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/dataflow_gen2_48_item.svg" width="40" height="40"/><br/>
+        <sub><b>Dataflows</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/notebook_48_item.svg" width="40" height="40"/><br/>
+        <sub><b>Notebooks</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/model_48_item.svg" width="40" height="40"/><br/>
+        <sub><b>ML Models</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/eventstream_48_item.svg" width="40" height="40"/><br/>
+        <sub><b>Eventstream</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/kql_database_48_item.svg" width="40" height="40"/><br/>
+        <sub><b>KQL DB</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/dashboard_48_item.svg" width="40" height="40"/><br/>
+        <sub><b>Dashboards</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/paginated_report_48_item.svg" width="40" height="40"/><br/>
+        <sub><b>Reports</b></sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Tech Stack with Animations -->
@@ -103,7 +169,7 @@ interests: Building open-source tools for the Fabric community
 
 <!-- Featured Projects - Pinned Repos Section -->
 <h2>
-  <img src="https://img.icons8.com/fluency/48/azure-1.png" width="28" height="28" alt="Azure"/>
+  <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/exploration_48_item.svg" width="32" height="32" alt="Projects"/>
   Featured Projects & Publications
 </h2>
 
@@ -125,7 +191,10 @@ interests: Building open-source tools for the Fabric community
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Connect with Me -->
-<h2>🤝 Let's Connect</h2>
+<h2>
+  <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/copilot_24_color.svg" width="28" height="28" alt="Connect"/>
+  Let's Connect
+</h2>
 
 <div align="center">
   
