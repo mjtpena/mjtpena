@@ -167,24 +167,22 @@ interests: Building open-source tools for the Fabric community
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Featured Projects - Pinned Repos Section -->
+<!-- Featured Publication -->
 <h2>
-  <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/exploration_48_item.svg" width="32" height="32" alt="Projects"/>
-  Featured Projects & Publications
+  <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/exploration_48_item.svg" width="32" height="32" alt="Book"/>
+  📚 Featured Publication
 </h2>
 
-<p align="center"><i>Open-source tools and resources for the Microsoft Fabric & Azure community</i></p>
-
 <div align="center">
-
-| Project | Description | Type |
-|:--------|:------------|:----:|
-| [**Azure Data Fundamentals (O'Reilly)**](https://www.oreilly.com/library/view/azure-data-fundamentals/9781098164720/) | Comprehensive guide to Azure Data services and fundamentals | 📚 Book |
-| [**fabric-capacity-scheduler**](https://github.com/mjtpena/fabric-capacity-scheduler) | Schedule and manage Microsoft Fabric capacity | PowerShell |
-| [**faborite**](https://github.com/mjtpena/faborite) | Sync Microsoft Fabric lakehouse data locally for faster development | C# |
-| [**fabric-lakehouse-backup**](https://github.com/mjtpena/fabric-lakehouse-backup) | Backup and restore Fabric lakehouse data | Python |
-| [**fabric-hydrate**](https://github.com/mjtpena/fabric-hydrate) | Hydrate Fabric environments with sample data | Python |
-
+  <a href="https://www.oreilly.com/library/view/azure-data-fundamentals/9781098164720/">
+    <img src="https://learning.oreilly.com/library/cover/9781098164720/250w/" alt="Azure Data Fundamentals Book Cover" width="200"/>
+  </a>
+  
+  <h3><a href="https://www.oreilly.com/library/view/azure-data-fundamentals/9781098164720/">Azure Data Fundamentals</a></h3>
+  <p><strong>O'Reilly Media</strong></p>
+  <p><i>A comprehensive guide to Azure Data services, covering everything from<br/>data storage and processing to analytics and AI integration.</i></p>
+  
+  [![Get the Book](https://img.shields.io/badge/Get_the_Book-O'Reilly-D14836?style=for-the-badge&logo=oreilly&logoColor=white)](https://www.oreilly.com/library/view/azure-data-fundamentals/9781098164720/)
 </div>
 
 <!-- Animated Divider -->
