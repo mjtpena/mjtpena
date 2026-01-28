@@ -1,12 +1,24 @@
 <!-- Animated Header Banner -->
 <div align="center">
-  
+
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:117865,50:0078D4,100:742774&height=230&section=header&text=Michael%20John%20Pena&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Microsoft%20MVP%20|%20MCT%20|%20Data%20and%20AI%20Director&descSize=18&descAlignY=55)
 
   <!-- Animated Typing -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Working+with+Microsoft+Fabric+and+Azure;Data+Engineering+|+Analytics+|+AI;Building+tools+for+the+data+community)](https://git.io/typing-svg)
 
 </div>
+
+<!-- Current Engagement -->
+<div align="center">
+  <h3>Currently working at</h3>
+  <a href="https://www.playtimesolutions.com.au/">
+    <img src="https://www.playtimesolutions.com.au/wp-content/uploads/2024/01/Playtime-Solutions-Logo-Dark.svg" width="280" alt="Playtime Solutions"/>
+  </a>
+  <p><b>Data & AI Director</b></p>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Microsoft Fabric Focus -->
 <div align="center">
@@ -51,37 +63,6 @@
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- About Me Section -->
-<h2>
-  <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/copilot_24_color.svg" width="28" height="28" alt="About"/>
-  About Me
-</h2>
-
-<div align="center">
-  
-  [![MVP Badge](https://img.shields.io/badge/Microsoft_MVP-Azure-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/MVP/profile/1ecd6371-e357-e511-810a-c4346bac0abc)
-  [![MCT Badge](https://img.shields.io/badge/Microsoft_Certified_Trainer-MCT-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/mct-certification)
-  [![Role](https://img.shields.io/badge/Data_&_AI_Director-Playtime_Solutions-742774?style=for-the-badge&logo=microsoft&logoColor=white)](https://playtimesolutions.com.au/)
-  
-</div>
-
-```yaml
-name: Michael John Pena
-location: Sydney, Australia
-current_focus: Microsoft Fabric & Data Engineering
-roles:
-  - Microsoft MVP for Azure
-  - Microsoft Certified Trainer (MCT)
-  - Data & AI Director @ Playtime Solutions
-  - Author & Speaker
-working_with:
-  - Microsoft Fabric (Lakehouse, Warehouse, Pipelines, Notebooks)
-  - Power BI & Semantic Models
-  - Azure Data Platform (Synapse, Databricks, Data Factory)
-  - AI/ML Solutions
-interests: Building open-source tools for the Fabric community
-```
 
 <!-- Fabric Artifacts I Work With -->
 <h2>
@@ -166,18 +147,6 @@ interests: Building open-source tools for the Fabric community
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Current Role -->
-<h2>
-  <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/fabric_48_color.svg" width="32" height="32" alt="Role"/>
-  Current Engagement
-</h2>
-
-<div align="center">
-
-[![Playtime Solutions](https://img.shields.io/badge/Data_&_AI_Director-Playtime_Solutions-742774?style=for-the-badge&logo=microsoft&logoColor=white)](https://playtimesolutions.com.au/)
-
-</div>
 
 <!-- Microsoft Credentials & Certifications -->
 <h2>
