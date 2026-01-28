@@ -167,6 +167,102 @@ interests: Building open-source tools for the Fabric community
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- Microsoft Credentials & Certifications -->
+<h2>
+  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="32" height="32" alt="Credentials"/>
+  Microsoft Credentials & Certifications
+</h2>
+
+<!-- Primary Credentials: MVP, MCT & Current Role -->
+<div align="center">
+
+  <a href="https://mvp.microsoft.com/en-US/MVP/profile/1ecd6371-e357-e511-810a-c4346bac0abc">
+    <img src="https://img.shields.io/badge/Microsoft_MVP-Azure-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0078D4" alt="Microsoft MVP" height="35"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/mct-certification">
+    <img src="https://img.shields.io/badge/Microsoft_Certified_Trainer-MCT-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="MCT" height="35"/>
+  </a>
+  <a href="https://playtimesolutions.com.au/">
+    <img src="https://img.shields.io/badge/Data_&_AI_Director-Playtime_Solutions-742774?style=for-the-badge&logo=microsoft&logoColor=white" alt="Playtime Solutions" height="35"/>
+  </a>
+
+</div>
+
+<br/>
+
+<!-- Expert Certifications -->
+<div align="center">
+  <h4>
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="24" height="24"/>
+    Expert
+  </h4>
+
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/">
+    <img src="https://img.shields.io/badge/Azure_Solutions_Architect-Expert-FFB900?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Solutions Architect Expert"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/">
+    <img src="https://img.shields.io/badge/DevOps_Engineer-Expert-FFB900?style=for-the-badge&logo=azuredevops&logoColor=white" alt="DevOps Engineer Expert"/>
+  </a>
+
+</div>
+
+<!-- Associate Certifications -->
+<div align="center">
+  <h4>
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="24" height="24"/>
+    Associate
+  </h4>
+
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/">
+    <img src="https://img.shields.io/badge/Fabric_Analytics_Engineer-Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Fabric Analytics Engineer Associate"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/">
+    <img src="https://img.shields.io/badge/Fabric_Data_Engineer-Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Fabric Data Engineer Associate"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/">
+    <img src="https://img.shields.io/badge/Azure_AI_Engineer-Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Engineer Associate"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/">
+    <img src="https://img.shields.io/badge/Azure_Developer-Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Developer Associate"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/">
+    <img src="https://img.shields.io/badge/Azure_Data_Scientist-Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Scientist Associate"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/">
+    <img src="https://img.shields.io/badge/Azure_Administrator-Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Administrator Associate"/>
+  </a>
+
+</div>
+
+<!-- Specialty Certifications -->
+<div align="center">
+  <h4>
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-specialty-badge.svg" width="24" height="24"/>
+    Specialty
+  </h4>
+
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-cosmos-db-developer-specialty/">
+    <img src="https://img.shields.io/badge/Azure_Cosmos_DB_Developer-Specialty-742774?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Cosmos DB Developer Specialty"/>
+  </a>
+
+</div>
+
+<!-- Fundamentals Certifications -->
+<div align="center">
+  <h4>
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="24" height="24"/>
+    Fundamentals
+  </h4>
+
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/">
+    <img src="https://img.shields.io/badge/Azure_Data-Fundamentals-107C10?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Fundamentals"/>
+  </a>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- Featured Publication -->
 <h2>
   <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/exploration_48_item.svg" width="32" height="32" alt="Book"/>
