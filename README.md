@@ -159,7 +159,7 @@
     <tr>
       <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="60"/><br/><b>MVP</b></td>
       <td>
-        <a href="https://mvp.microsoft.com/en-US/MVP/profile/1ecd6371-e357-e511-810a-c4346bac0abc"><b>Microsoft Most Valuable Professional - Azure</b></a>
+        <a href="https://mvp.microsoft.com/en-US/MVP/profile/1ecd6371-e357-e511-810a-c4346bac0abc"><b>Microsoft Most Valuable Professional</b></a><br/>Data Platform · Microsoft Fabric · Microsoft Foundry
       </td>
     </tr>
     <tr>
