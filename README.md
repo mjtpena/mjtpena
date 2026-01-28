@@ -1,7 +1,7 @@
 <!-- Animated Header Banner -->
 <div align="center">
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:117865,50:0078D4,100:742774&height=230&section=header&text=Michael%20John%20Pena&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Microsoft%20MVP%20|%20MCT%20|%20Data%20and%20AI%20Director&descSize=18&descAlignY=55)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:117865,50:0078D4,100:742774&height=230&section=header&text=Michael%20John%20Pe%C3%B1a&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20|%20Architect%20|%20Trainer%20|%20Author&descSize=20&descAlignY=55)
 
   <!-- Animated Typing -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Working+with+Microsoft+Fabric+and+Azure;Data+Engineering+|+Analytics+|+AI;Building+tools+for+the+data+community)](https://git.io/typing-svg)
