@@ -157,13 +157,13 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="60"/><br/><b>MVP</b></td>
+      <td align="center"><img src="https://images.credly.com/images/8f11d73e-9c33-4788-a602-88c761957c90/blob.png" width="60"/><br/><b>MVP</b></td>
       <td>
         <a href="https://mvp.microsoft.com/en-US/MVP/profile/1ecd6371-e357-e511-810a-c4346bac0abc"><b>Microsoft Most Valuable Professional</b></a><br/>Data Platform · Microsoft Fabric · Microsoft Foundry
       </td>
     </tr>
     <tr>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="60"/><br/><b>MCT</b></td>
+      <td align="center"><img src="https://images.credly.com/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png" width="60"/><br/><b>MCT</b></td>
       <td>
         <a href="https://learn.microsoft.com/en-us/credentials/certifications/mct-certification"><b>Microsoft Certified Trainer</b></a>
       </td>
