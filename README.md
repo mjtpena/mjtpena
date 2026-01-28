@@ -167,6 +167,18 @@ interests: Building open-source tools for the Fabric community
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- Current Role -->
+<h2>
+  <img src="https://raw.githubusercontent.com/mjtpena/cloudicons/main/wwwroot/icons/fabric/svg/fabric_48_color.svg" width="32" height="32" alt="Role"/>
+  Current Engagement
+</h2>
+
+<div align="center">
+
+[![Playtime Solutions](https://img.shields.io/badge/Data_&_AI_Director-Playtime_Solutions-742774?style=for-the-badge&logo=microsoft&logoColor=white)](https://playtimesolutions.com.au/)
+
+</div>
+
 <!-- Microsoft Credentials & Certifications -->
 <h2>
   <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="32" height="32" alt="Credentials"/>
@@ -174,19 +186,23 @@ interests: Building open-source tools for the Fabric community
 </h2>
 
 <div align="center">
-
-[![MVP](https://img.shields.io/badge/Microsoft_MVP-Azure-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/MVP/profile/1ecd6371-e357-e511-810a-c4346bac0abc)
-[![MCT](https://img.shields.io/badge/Microsoft_Certified_Trainer-MCT-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/mct-certification)
-[![Playtime Solutions](https://img.shields.io/badge/Data_&_AI_Director-Playtime_Solutions-742774?style=for-the-badge&logo=microsoft&logoColor=white)](https://playtimesolutions.com.au/)
-
-</div>
-
-<div align="center">
   <table>
+    <tr>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="60"/><br/><b>MVP</b></td>
+      <td>
+        <a href="https://mvp.microsoft.com/en-US/MVP/profile/1ecd6371-e357-e511-810a-c4346bac0abc"><b>Microsoft Most Valuable Professional - Azure</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="60"/><br/><b>MCT</b></td>
+      <td>
+        <a href="https://learn.microsoft.com/en-us/credentials/certifications/mct-certification"><b>Microsoft Certified Trainer</b></a>
+      </td>
+    </tr>
     <tr>
       <td align="center"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="60"/><br/><b>Expert</b></td>
       <td>
-        <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/">Azure Solutions Architect</a><br/>
+        <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/">Azure Solutions Architect</a> ·
         <a href="https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/">DevOps Engineer</a>
       </td>
     </tr>
